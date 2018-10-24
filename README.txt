@@ -1,4 +1,4 @@
-Implementasi Algoritma DDA
+Implementasi Algoritma DDA (Digital Differential Analyzer)
 
 Dalam project ini menggunakan Aplikasi CodeBlock sebagai tempat penulisan codingnya.
 agar dapat menjalankan Project ini Codeblocknya harus sudah di include glut.h di MINGW -nya.
